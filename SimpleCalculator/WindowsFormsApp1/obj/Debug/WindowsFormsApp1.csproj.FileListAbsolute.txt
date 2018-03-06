@@ -1,0 +1,20 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+G:\C#\SimpleCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\C#\SimpleCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\C#\SimpleCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\C#\SimpleCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
